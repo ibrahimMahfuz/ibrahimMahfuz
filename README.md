@@ -4,8 +4,8 @@
 
 ## I'm a Fullstack Developer
 
-- 👨‍💻 I’m currently working on web and android development technologies like Laravel, Android Studi etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies
+- 👨‍💻 Currently working on web and android development technologies like Laravel, Android Studi etc.
+- 📚 Currently learning everything about Frontend and Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I eat a lot 🎱.
 - <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"> Write to me using: <a href="mailto:mahfuzjailaniibrahim@gmail.com">Email</a>
