@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-__Hello There:__
+__Hello There,__
 
 My name is Mahfuz Jailani Ibrahim, a computer scientist with knowledges on full stack development.
 
