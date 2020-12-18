@@ -23,7 +23,7 @@ __Statistics and Development Technologies:__
 <img src="https://github-readme-stats.vercel.app/api?username=ibrahimMahfuz&show_icons=true" align="left">
 
 
-__📊 Weekly development breakdown__
+<h2>📊 Weekly development breakdown</h2>
 <table>
                 <tr>
                     <td width=215px;>
