@@ -12,10 +12,10 @@
 <hr>
 <!-- Add statistics using anuraghazra/github-readme-stats package -->
 <img src="https://github-readme-stats.vercel.app/api?username=ibrahimMahfuz&show_icons=true" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimMahfuz" align="center">  
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMahfuz&langs_count=10&layout=compact" alt="AnhellO :: Top Langs" />
 <hr>
 <img src="https://metrics.lecoq.io/ibrahimMahfuz" align="center">  
 <hr>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimMahfuz" align="center">  
 
