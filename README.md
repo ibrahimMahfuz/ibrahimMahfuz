@@ -14,3 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ibrahimMahfuz&show_icons=true" align="center">
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMahfuz&langs_count=10&layout=compact" alt="AnhellO :: Top Langs" />
+<hr>
+![GitHub metrics](https://metrics.lecoq.io/ibrahimMahfuz)  
+<hr>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimMahfuz)  
