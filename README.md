@@ -22,45 +22,6 @@ __Hello There,__
 <br>
 <br>
 <hr>
-<h2>📊 Weekly development breakdown</h2>
-<table>
-                <tr>
-                    <td width=215px;>
-                        Python
-                    </td>
-                    <td>
-                        11 hrs 43 mins
-                    </td>
-                    <td>
-                        ██████░░░░&nbsp;&nbsp;(67.01 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        CSS
-                    </td>
-                    <td width=145px;>
-                        3 hrs 8 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(17.92 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        HTML
-                    </td>
-                    <td width=145px;>
-                        2 hrs 27 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(14.08 %)
-                    </td>
-                </tr></table>
-<hr>
-<h4 align="center">Other – <a href='http://gothboy.me' target="_blank">gothboy.me</a><h4>
-    
------
-Credits: [xcaq](https://github.com/xcaq)
+<h4 align="center">Top langs :tongue:</h4>
 
-Last Edited on: 30/08/2020
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
