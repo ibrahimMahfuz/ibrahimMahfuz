@@ -9,7 +9,8 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love devops sometimes 🎱.
 - <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"> Write to me using: <a href="mailto:mahfuzjailaniibrahim@gmail.com">Email</a>
-
+<hr>
 <!-- Add statistics using anuraghazra/github-readme-stats package -->
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimMahfuz&show_icons=true" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahimMahfuz&show_icons=true" align="center">
+<hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMahfuz&langs_count=10&layout=compact" alt="AnhellO :: Top Langs" />
