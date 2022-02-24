@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Fullstack Developer
+## I'm a Fullstack Engineer
 
 - 👨‍💻 Currently working with Spring boot, ReactJs, Flutter.
 - 📚 Currently learning everything about programming such as Design Pattern, Architecture etc.
