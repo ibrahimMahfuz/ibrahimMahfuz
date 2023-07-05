@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Fullstack Engineer
+## I'm a Software Engineer
 
 - 👨‍💻 Currently working with Spring boot, ReactJs, Flutter.
-- 📚 Currently learning everything about programming such as Design Pattern, Architecture etc.
+- 📚 Currently learning everything about good programming practice such as Clean Code, Design Pattern, Architecture etc.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I don't eat seafood, just been able to eat chicken.
 - <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="15"> Email me at: <a href="mailto:mahfuzjailaniibrahim@gmail.com">Email</a>
